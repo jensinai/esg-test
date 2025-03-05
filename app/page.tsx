@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "What are the key disclosure requirements under CSRD?",
-  "Who needs to comply with CSRD?",
-  "When does CSRD reporting become mandatory?",
+  "ex: What are the key disclosure requirements under CSRD?",
+  "ex: Who needs to comply with CSRD?",
+  "ex: When does CSRD reporting become mandatory?",
 ];
 
 export default function Chat() {
